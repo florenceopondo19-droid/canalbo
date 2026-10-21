@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: canalbox-rdc
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
